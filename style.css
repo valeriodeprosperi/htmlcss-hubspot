@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+}
+
+.container {
+  height: 200px;
+  width: 1000px;
+  background: color: red;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.menu-inline {
+  list-style: none;
+}
+.menu-inline li {
+  display: inline-block;
+}
+
+.header-top-nav-left {
+  float: left;
+  width: 50%;
+}
+.header-top-nav-right {
+  float: left;
+  width: 50%;
+  text-align: right;
+}
