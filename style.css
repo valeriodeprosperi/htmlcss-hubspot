@@ -5,9 +5,9 @@
 }
 
 .container {
-  height: 200px;
-  width: 1000px;
-  background: color: red;
+
+  width: 75%;
+  margin:auto;
 }
 
 .clearfix::after {
@@ -18,17 +18,30 @@
 
 .menu-inline {
   list-style: none;
+  width: 1000px;
+  
 }
 .menu-inline li {
   display: inline-block;
+}
+.header-top {
+  height: 70px;
+  line-height: 70px;
 }
 
 .header-top-nav-left {
   float: left;
   width: 50%;
+
 }
 .header-top-nav-right {
   float: left;
   width: 50%;
   text-align: right;
+
+
+}
+
+.header-top li {
+  margin: 0 10px;
 }
