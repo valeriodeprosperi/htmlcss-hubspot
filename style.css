@@ -29,8 +29,9 @@
 .header-top {
   height: 70px;
   line-height: 70px;
-  width:90%
-}
+  width:90%;
+  background-color: lightblue;
+  }
 
 .header-top-nav-left {
   float: left;
