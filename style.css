@@ -47,10 +47,14 @@
 .header-top li {
   margin: 0 10px;
 }
+.logo-row{
+  height:200px;
+}
 /* banner */
 .banner {
   position: relative;
   height: 500px;
+
 }
 .banner-text {
   position: absolute;
