@@ -6,7 +6,7 @@
 
 .container {
 
-  width: 75%;
+  width: 90%;
   margin:auto;
 }
 
@@ -29,6 +29,7 @@
 .header-top {
   height: 70px;
   line-height: 70px;
+  width:90%
 }
 
 .header-top-nav-left {
@@ -53,7 +54,9 @@
 /* banner */
 .banner {
   position: relative;
-  height: 500px;
+  height: 800px;
+  width: 90%;
+  background-image: url(img/jumbotron.png);
 
 }
 .banner-text {
