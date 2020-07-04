@@ -61,14 +61,19 @@
 }
 .banner-text {
   position: absolute;
-  top: 50%;
+  bottom: 15%;
   left: 0;
   transform: translateY(-50%);
   width: 50%;
   color: #fff;
+  padding-left: 10%;
+
 }
 .banner-text h1 {
   font-size: 50px;
   margin-bottom: 30px;
   color: red;
+}
+.banner-text p{
+  color: black;
 }
