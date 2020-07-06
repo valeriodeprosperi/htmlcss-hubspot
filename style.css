@@ -97,6 +97,7 @@ padding: 0 100px;
 }
 .btn-big {
   padding: 20px;
+  margin: 25px 0;
 }
 /* banner */
 .banner {
@@ -120,12 +121,12 @@ padding: 0 100px;
 .banner-text h1 {
   font-size: 50px;
   margin-bottom: 30px;
-  color: red;
+  color: black;
 }
 .banner-text p{
   color: black;
 margin-top: 25px 0;
-margin-bottom: 25px 0;
+
 }
 
 
@@ -172,5 +173,5 @@ background-color: #F0FFFF;
 }
 
 .crm-text{
-  
+
 }
