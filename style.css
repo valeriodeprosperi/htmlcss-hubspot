@@ -44,11 +44,13 @@ padding: 0 100px;
   line-height: 70px;
   padding: 0 160px;
   background-color: #F0FFFF;
+  border-bottom: 1px solid black;
   }
 
 .header-top-nav-left {
   float: left;
   width: 50%;
+
 
 
 }
