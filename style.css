@@ -152,8 +152,21 @@ background-color: #F0FFFF;
 
 }
 .box2{
-  height: 200px;
+  height: 250px;
   border-color: red;
   border: 1px solid green;
   margin: 0 300px;
+}
+.box2-nav-left{
+  float: left;
+  width: 20%;
+}
+.box2-nav-right{
+  float: left;
+  width: 80%;
+}
+
+#crm-logo{
+  height:150px;
+  width:150px;
 }
