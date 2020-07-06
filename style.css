@@ -24,15 +24,18 @@ body {
 
 .menu-inline {
   list-style: none;
+padding: 0 100px;
 }
 
 
 .menu-inline li {
   display: inline-block;
 
+
 }
 .menu-inline li a{
   text-decoration: none;
+  color: #A9A9A9;
 }
 
 
@@ -40,12 +43,13 @@ body {
   height: 70px;
   line-height: 70px;
   width:90%;
-  background-color: lightblue;
+  background-color: #F0FFFF;
   }
 
 .header-top-nav-left {
   float: left;
   width: 50%;
+
 
 }
 .header-top-nav-right {
@@ -53,11 +57,15 @@ body {
   width: 50%;
   text-align: right;
 
+
 }
 
 
 .header-top li {
   margin: 0 10px;
+}
+.logo{
+  padding-left: 100px;
 }
 .logo-row{
   height:200px;
@@ -95,6 +103,7 @@ body {
   position: relative;
   height: 800px;
   width: 90%;
+
   background-image: url(img/jumbotron.png);
 
 }
@@ -115,8 +124,20 @@ body {
 }
 .banner-text p{
   color: black;
+
+
+}
+
 }
 .learn{
-  height: 800px;
+height:800px
 
+}
+
+.learn-text{
+  text-align: center;
+}
+.cubi{
+  height: 300px;
+  width:350px;
 }
