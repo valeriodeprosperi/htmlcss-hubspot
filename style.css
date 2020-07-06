@@ -125,13 +125,13 @@ padding: 0 100px;
 .banner-text p{
   color: black;
 
-
 }
 
-}
+
 .learn{
-height:800px
-
+  position: relative;
+height:800px;
+background-color: #F0FFFF;
 }
 
 .learn-text{
@@ -141,4 +141,12 @@ height:800px
 .cubi{
   height: 300px;
   width:350px;
+}
+
+.box1{
+
+  height: 300px;
+  width:70%;
+  background-color: red;
+  text-align: center;
 }
