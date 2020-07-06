@@ -50,10 +50,9 @@ padding: 0 100px;
 .header-top-nav-left {
   float: left;
   width: 50%;
-
-
-
 }
+
+
 .header-top-nav-right {
   float: left;
   width: 50%;
@@ -70,6 +69,7 @@ padding: 0 100px;
   padding-left: 100px;
 }
 .logo-row{
+padding-top:20px;
   height:200px;
 
 }
@@ -141,6 +141,10 @@ background-color: #F0FFFF;
 .learn-text{
   text-align: center;
   padding: 50px 0;
+}
+
+.learn-text h1{
+  padding-bottom: 30px;
 }
 .cubi{
   height: 300px;
