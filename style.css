@@ -129,7 +129,7 @@ padding: 0 100px;
 
 
 .learn{
-  position: relative;
+position: relative;
 height:800px;
 background-color: #F0FFFF;
 }
@@ -144,9 +144,9 @@ background-color: #F0FFFF;
 }
 
 .box1{
-
   height: 300px;
   width:70%;
   background-color: red;
   text-align: center;
+  
 }
