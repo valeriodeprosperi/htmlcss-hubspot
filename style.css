@@ -274,3 +274,13 @@ color: orange
 .div-header{
   text-align: center;
 }
+.table-box{
+  height:400px;
+  width:100%
+}
+.square{
+  height:200px;
+  width:200px;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+}
