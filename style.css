@@ -167,10 +167,10 @@ padding: 10px
 }
 
 .box1{
-  height: 300px;
+  height: 400px;
 
   background-color: #F0FFFF;
-  text-align: center;
+
 
 }
 .box2{
@@ -178,6 +178,7 @@ padding: 10px
   background-color: white;
   border: 1px solid green;
   margin: 0 300px;
+  padding: 40px;
 }
 .box2-nav-left{
   float: left;
@@ -189,6 +190,10 @@ padding: 10px
 }
 
 #crm-logo{
-  height:150px;
-  width:150px;
+  height:100px;
+  width:100px;
+}
+.crm-text li{
+  padding-top: 20px;
+  margin-right: 10px;
 }
