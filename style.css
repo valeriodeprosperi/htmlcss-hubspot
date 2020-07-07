@@ -275,10 +275,18 @@ color: orange
   text-align: center;
 }
 .table-box{
+
   height:400px;
   width:100%
 }
+.table-box2{
+
+  height:400px;
+  width:100%
+}
+
 .square{
+  float: left;
   height:200px;
   width:200px;
   border-right: 1px solid white;
