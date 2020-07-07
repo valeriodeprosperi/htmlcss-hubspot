@@ -146,6 +146,9 @@ background-color: #F0FFFF;
 .learn-text h1{
   padding-bottom: 30px;
 }
+.learn-text p{
+padding: 10px 0;
+}
 .cubi{
   height: 300px;
   width:350px;
