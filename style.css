@@ -202,6 +202,7 @@ color: orange
 }
 
 .box-left{
+  float: left;
   height:500px;
   width:33%;
   background-color: red;
@@ -209,4 +210,18 @@ color: orange
 .box-left img{
   height:100px;
   width:100px;
+}
+
+.box-center{
+  float: left;
+  height:500px;
+  width:33%;
+  background-color: green;
+}
+
+.box-right{
+  float: left;
+  height:500px;
+  width:33%;
+  background-color: blue;
 }
