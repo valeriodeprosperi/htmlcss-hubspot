@@ -269,5 +269,8 @@ color: orange
 
 .learn-grow{
   height: 800px;
-  background color: #7FFFD4;
+  background-color: #7FFFD4;
+}
+.div-header{
+  text-align: center;
 }
