@@ -222,6 +222,7 @@ color: orange
   border-radius: 25px;
   box-shadow: 5px 5px;
   text-align: center;
+  margin: 20px 30px;
 }
 .box-left img{
   height:100px;
@@ -247,6 +248,8 @@ color: orange
   box-shadow: 5px 5px;
   margin: 10px 10px;
   text-align: center;
+  margin: 20px 30px;
+
 }
 
 .box-right{
@@ -260,4 +263,11 @@ color: orange
   box-shadow: 5px 5px;
   margin: 10px 10px;
   text-align: center;
+  margin: 20px 30px;
+
+}
+
+.learn-grow{
+  height: 800px;
+  background color: #7FFFD4;
 }
