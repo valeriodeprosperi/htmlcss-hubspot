@@ -40,7 +40,7 @@ padding: 0 100px;
 
 
 .header-top {
-  height: 70px;
+
   line-height: 70px;
   padding: 0 160px;
   background-color: #F0FFFF;
@@ -105,9 +105,10 @@ padding-top:20px;
 .banner {
   position: relative;
   height: 800px;
-  width: 90%;
-
   background-image: url(img/jumbotron.png);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-color: #FFF8EC;
 
 }
 .banner-text {
@@ -130,8 +131,19 @@ padding-top:20px;
 margin-top: 25px 0;
 
 }
+.barra{
+  height: 80px;
+  width:100%;
+  position: absolute;
+  bottom:0;
+  background-color: #AFEBE4;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
 
 
+}
+
+/* learn */
 .learn{
 position: relative;
 height:500px;
@@ -147,7 +159,7 @@ background-color: #F0FFFF;
   padding-bottom: 30px;
 }
 .learn-text p{
-padding: 10px 0;
+padding: 10px
 }
 .cubi{
   height: 300px;
