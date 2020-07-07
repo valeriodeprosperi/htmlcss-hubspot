@@ -206,3 +206,7 @@ color: orange
   width:33%;
   background-color: red;
 }
+.box-left img{
+  height:100px;
+  width:100px;
+}
