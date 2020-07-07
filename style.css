@@ -167,7 +167,7 @@ padding: 10px
 }
 
 .box1{
-  height: 400px;
+  height: 1000px;
 
   background-color: #F0FFFF;
 
@@ -196,4 +196,13 @@ padding: 10px
 .crm-text li{
   padding-top: 20px;
   margin-right: 10px;
+}
+.fa-check-circle{
+color: orange
+}
+
+.box-left{
+  height:500px;
+  width:33%;
+  background-color: red;
 }
