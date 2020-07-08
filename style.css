@@ -307,6 +307,7 @@ color: orange
   border-bottom: 1px solid white;
   padding: 5px 10px;
   text-align: center;
+
 }
 .item h2{
   font-size: 50px;
@@ -316,4 +317,9 @@ color: orange
 .item p{
   color:white;
   padding-top: 5px;
+}
+
+.row-container i{
+  font-size:30px;
+  color: white;
 }
