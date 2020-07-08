@@ -268,11 +268,27 @@ color: orange
 }
 
 .learn-grow{
-  height: 800px;
+  height: 700px;
   background-color: #7FFFD4;
 }
 .div-header{
   text-align: center;
+  padding: 50px;
+}
+.div-header h2 {
+  color: white;
+}
+.div-header p{
+  margin-top: 20px;
+  color: white;
+}
+
+
+.row-container{
+  width: 900px;
+  margin: auto;
+  margin-top:50px;
+
 }
 .row1{
   width:100%;
