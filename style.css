@@ -336,8 +336,10 @@ color: orange
 .sponsor{
   height:300px;
 
+
 }
 .sponsor-left{
+  float: left;
   width:50%;
   text-align: center;
   padding-top:40px;
@@ -345,4 +347,17 @@ color: orange
 .sponsor-left h1{
 font-size: 60px;
 padding-bottom: 20px;
+}
+.sponsor-right{
+  float: left;
+  width:50%;
+  text-align: center;
+  padding-top:40px;
+}
+.item2{
+  float: left;
+}
+.item2 img{
+  height: 100px;
+  width:100px;
 }
