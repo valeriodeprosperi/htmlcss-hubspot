@@ -401,7 +401,7 @@ padding-bottom: 20px;
 .footer{
   margin-top: 50px;
   height: 500px;
-  background-color: red;
+  background-color: #33475b;
 }
 .list1{
   float: left;
@@ -426,4 +426,8 @@ padding-bottom: 20px;
 }
 .listnone{
   list-style: none;
+
+}
+.listnone li{
+  color: white;
 }
