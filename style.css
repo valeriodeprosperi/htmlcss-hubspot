@@ -269,13 +269,14 @@ color: orange
 
 .learn-grow{
   height: 700px;
-  background-color: #7FFFD4;
+  background-color: #01b7ab;
 }
 .div-header{
   text-align: center;
   padding: 50px;
 }
 .div-header h2 {
+  font-size:50px;
   color: white;
 }
 .div-header p{
@@ -287,7 +288,7 @@ color: orange
 .row-container{
   width: 900px;
   margin: auto;
-  margin-top:50px;
+  margin-top:20px;
 
 }
 .row1{
@@ -304,5 +305,15 @@ color: orange
   width:200px;
   border-right: 1px solid white;
   border-bottom: 1px solid white;
-  padding-top: 60px;
+  padding: 5px 10px;
+  text-align: center;
+}
+.item h2{
+  font-size: 50px;
+  color: white;
+}
+
+.item p{
+  color:white;
+  padding-top: 5px;
 }
