@@ -404,22 +404,26 @@ padding-bottom: 20px;
   background-color: #33475b;
 }
 .list1{
+  padding-top: 20px;
   float: left;
   width: 25%
 
 }
 
 .list2{
+  padding-top: 20px;
   float: left;
   width: 25%
 
 }
 .list3{
+  padding-top: 20px;
   float: left;
   width: 25%
 
 }
 .list4{
+  padding-top: 20px;
   float: left;
   width: 25%
 
@@ -429,5 +433,13 @@ padding-bottom: 20px;
 
 }
 .listnone li{
+  color: lightgrey;
+  padding: 10px 0px;
+}
+
+.listnone li:first-child{
   color: white;
+}
+.btn-footer{
+  padding: 5px 5px;
 }
