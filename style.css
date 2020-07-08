@@ -70,7 +70,7 @@ padding: 0 100px;
 }
 .logo-row{
 padding-top:20px;
-  height:200px;
+  height:80px;
 
 }
 
@@ -215,7 +215,7 @@ color: orange
 .box-left{
   float: left;
   height:500px;
-  width:25%;
+  width:30%;
   background-color: white;
   border: 2px solid white;
   padding: 10px;
@@ -356,6 +356,7 @@ padding-bottom: 20px;
 }
 .item2{
   float: left;
+
 }
 .item2 img{
   height: 100px;
@@ -441,5 +442,12 @@ padding-bottom: 20px;
   color: white;
 }
 .btn-footer{
-  padding: 5px 5px;
+  padding: 10px 10px;
+}
+.social li{
+  list-style: none;
+  float: left;
+  color: lightgrey;
+  padding-left: 15px;
+  padding-top: 15px;
 }
