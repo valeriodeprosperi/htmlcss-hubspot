@@ -371,3 +371,30 @@ padding-bottom: 20px;
 .row2bis{
   width: 100%;
 }
+/* /sponor */
+/* sponsor-bottom */
+
+.sponsor-bottom{
+  height:300px;
+}
+
+
+.sponsor-bottom-left{
+  float: left;
+  width:50%;
+  padding-left: 120px;
+  padding-top:40px;
+}
+.sponsor-bottom-left h1{
+font-size: 40px;
+padding-bottom: 20px;
+}
+
+.sponsor-bottom-right{
+  float: left;
+  width:50%;
+  padding-top:40px;
+}
+.sponsor-bottom-right img{
+
+}
