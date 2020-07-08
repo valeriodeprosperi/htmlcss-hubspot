@@ -451,3 +451,35 @@ padding-bottom: 20px;
   padding-left: 15px;
   padding-top: 15px;
 }
+
+
+.multi-lang{
+  padding-top: 400px;
+  padding-left: 550px;
+}
+.multi-lang li{
+  list-style: none;
+  float: left;
+  color: lightgrey;
+  padding-left: 25px;
+  padding-top: 15px;
+
+}
+.footer-bottom-left {
+  float: left;
+  width: 50%;
+}
+
+.footer-bottom-right {
+  float: left;
+  width: 50%;
+  text-align: right;
+}
+.legal-stuff li{
+  list-style: none;
+  float: left;
+  color: lightgrey;
+  padding-left: 25px;
+  padding-top: 15px;
+
+}
