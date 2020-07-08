@@ -360,4 +360,14 @@ padding-bottom: 20px;
 .item2 img{
   height: 100px;
   width:100px;
+  padding-left: 25px;
+}
+
+.row1bis{
+  height:150px;
+  width: 100%;
+}
+
+.row2bis{
+  width: 100%;
 }
