@@ -296,7 +296,8 @@ color: orange
 
 }
 .row2{
-  width:100%
+  width:100%;
+
 }
 .item{
   height:100px;
@@ -309,9 +310,14 @@ color: orange
   text-align: center;
 
 }
+
+.row2 .item{
+  border-bottom: none;
+}
 .item:last-child{
   border-right: none;
 }
+
 .item h2{
   font-size: 50px;
   color: white;
@@ -329,5 +335,14 @@ color: orange
 /* sponsor */
 .sponsor{
   height:300px;
-  background-color: red;
+
+}
+.sponsor-left{
+  width:50%;
+  text-align: center;
+  padding-top:40px;
+}
+.sponsor-left h1{
+font-size: 60px;
+padding-bottom: 20px;
 }
